@@ -4,7 +4,7 @@ Hi 👋 My name is Mehmet Ünlü
 Jr. Machine Learning Enginer and Data Scientist
 -----------------------------------------------
 
-I'm an ambitious and determined Software Developer focused on object oriented programming and Data Science, Machine Learning (artificial intelligence technologies). I have developed projects in languages such as Python, C#, Java, C, C++, solidity etc. and I am interested in game development (unreal engine) and blockchain development as a hobby.
+I'm an ambitious and determined Software Engineer focused on Machine Learning (artificial intelligence technologies) and Data Science. I have developed projects in languages such as Python, C#, Java, C, C++, solidity etc. and I am interested in game development (unreal engine) and blockchain development as a hobby.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [My Website (will be active soon)](http://daymenion.com)
