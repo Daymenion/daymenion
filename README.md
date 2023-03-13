@@ -18,43 +18,38 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daymenion&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Daymenion/Daymenion/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
 
 <!--
-[![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Daymenion&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
 <img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> <img src="https://streak-stats.demolab.com/?user=Daymenion&theme=buefy-dark" width="400" />
 
-<!-- [![Feiyang's github stats](https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daymenion&theme=buefy-dark)](https://git.io/streak-stats) -->
-
-
-<div align=center>
-  <img src="https://github.com/Daymenion/Daymenion/blob/master/codersrank.png" width="500"/>
-</div>
 
 
 
 
 
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+<--
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
 
 
 
 
 <p align="center"> 
-  Visitors (From 08/06/2020):<br>
+  Visitors (From 13/03/2023):<br>
   <img src="https://profile-counter.glitch.me/Daymenion/count.svg" />
 </p>
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Daymenion/Daymenion/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
 
 
 
