@@ -2,17 +2,14 @@
 ![image](https://github.com/Daymenion/daymenion/blob/3a8017a8c080d8096ba923f14b86f6469c72cb24/dino.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+I'm+Mehmet+Ünlü+;Software+Engineer+On+Machine+Learning+;You+Are+Welcome+👋)](https://daymenion.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+I'm+Mehmet+Ünlü+;Machine+Learning+Engineer+;You+Are+Welcome+👋)](https://daymenion.github.io)
 
-============================
-
-I am an ambitious, determined and entrepreneurial Software Engineer with +2 years of experience, focused on Machine Learning (Artificial Intelligence Technologies). I am interested in game development (unreal engine) as a hobby.
 -----------------------------------------------
 
 * 🖥️  See my portfolio at [My Website (will be active soon)](http://daymenion.com)
 * ✉️  You can contact me at [Email](mailto:mehmet.k_unlu@hotmail.com)
 * 🧠 🔭 I'm learning EVERYTHING about this universe and ML.
-* 👯 🤝 Always open to collaborations on Machine Learning Interdisciplinary research topics. 
+* 👯 🤝 Always open to collaborations on Machine Learning topics and Interdisciplinary research topics. 
 
 
 
@@ -48,7 +45,7 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>s
 
 <!-- Github Stats -->
 <div align="center">
