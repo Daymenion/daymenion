@@ -24,6 +24,7 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 [![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=daymenion)](https://github.com/daymenion/github-readme-stats)
 
 <img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> <img src="https://streak-stats.demolab.com/?user=Daymenion&theme=buefy-dark" width="400" />
 
