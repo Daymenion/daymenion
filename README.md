@@ -3,27 +3,22 @@
 ![image](https://github.com/Daymenion/daymenion/blob/3a8017a8c080d8096ba923f14b86f6469c72cb24/dino.gif)
 
 
-<!--
-**Eurus-Holmes/Eurus-Holmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently working at [Apple Inc.](https://www.apple.com/)
-- 🤔 Looking to collaborate on Multimodal Machine Learning.
--->
+Hi 👋 My name is Mehmet Ünlü
+============================
 
+Jr. Machine Learning Enginer and Data Scientist
+-----------------------------------------------
 
-- 👯 Always open to collaborations on Multimodal and Interdisciplinary research topics. 
-- 🔭 I'm learning EVERYTHING about this universe.
-- 💬 You can ask me ANYTHING as long as I know.
-- 📫 Feel free to [Email](mailto:fychen@ucla.edu) Me!
-- 😄 Fun fact: The [Three-Body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) is my favorite novel and [Sherlock](https://en.wikipedia.org/wiki/Sherlock_(TV_series)) is my favorite TV series. That's where my GitHub avatar and username come from.
+I am an ambitious, determined and entrepreneurial Software Engineer with +2 years of experience, focused on Machine Learning (Artificial Intelligence Technologies). I am interested in game development (unreal engine) as a hobby.
+
+* 🖥️  See my portfolio at [My Website (will be active soon)](http://daymenion.com)
+* ✉️  You can contact me at [Email](mailto:mehmet.k_unlu@hotmail.com)
+* 🚀  I'm currently working on [My Game (will be active soon)](http://blabla)
+* 🧠  I'm learning Advanced Machine Learning, Game Development, Advanced Data Science, Blockchain Development
+* 🤝  I'm open to collaborating on ML
+* 👯 Always open to collaborations on Machine Learning Interdisciplinary research topics. 
+* 🔭 I'm learning EVERYTHING about this universe.
+
 
 
 <!--
@@ -81,20 +76,7 @@ Here are some ideas to get you started:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
 
 
-Hi 👋 My name is Mehmet Ünlü
-============================
 
-Jr. Machine Learning Enginer and Data Scientist
------------------------------------------------
-
-I am an ambitious, determined and entrepreneurial Software Engineer with +2 years of experience, focused on Machine Learning (Artificial Intelligence Technologies). I am interested in game development (unreal engine) and blockchain development as a hobby.
-
-* 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [My Website (will be active soon)](http://daymenion.com)
-* ✉️  You can contact me at [mehmet.k\_unlu@hotmail.com](mailto:mehmet.k_unlu@hotmail.com)
-* 🚀  I'm currently working on [My Game (will be active soon)](http://blabla)
-* 🧠  I'm learning Advanced Machine Learning, Game Development, Advanced Data Science, Blockchain Development
-* 🤝  I'm open to collaborating on ML and Data Science
 
 <a href="https://www.github.com/daymenion" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daymenion?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/daymenion" target="_blank" rel="noreferrer"><img
