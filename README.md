@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Mehmet+UNLU+;You+Are+Welcome+!)](https://al-swaiti.github.io)
+
 ![image](https://github.com/Daymenion/daymenion/blob/3a8017a8c080d8096ba923f14b86f6469c72cb24/dino.gif)
 
 
@@ -18,15 +20,9 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daymenion&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Daymenion/Daymenion/)
-
-
-[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=daymenion)](https://github.com/daymenion/github-readme-stats)
-
 <img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daymenion&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
@@ -38,20 +34,6 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-
-
-
-<p align="center"> 
-  Visitors (From 13/03/2023):<br>
-  <img src="https://profile-counter.glitch.me/Daymenion/count.svg" />
-</p>
-
-
-
-![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/f6ecc43eb11ca8e85c9b377f11ef3112eec910b5/github-contribution-grid-snake.svg)
-
 
 
 
@@ -92,7 +74,13 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 
 <a href="http://www.github.com/daymenion"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daymenion&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/daymenion"><img src="https://activity-graph.herokuapp.com/graph?username=daymenion&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/f6ecc43eb11ca8e85c9b377f11ef3112eec910b5/github-contribution-grid-snake-dark.svg)
+
+<p align="center"> 
+  Visitors (From 13/03/2023):<br>
+  <img src="https://profile-counter.glitch.me/Daymenion/count.svg" />
+</p>
 
 ### Support Me
 
