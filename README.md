@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://github.com/Daymenion/daymenion/blob/master/dino.gif)
+![image](https://github.com/Daymenion/daymenion//dino.gif)
 
 
 <!--
