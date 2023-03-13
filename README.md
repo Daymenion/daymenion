@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![image](https://github.com/Daymenion/daymenion/dino.gif)
+![image](https://github.com/Daymenion/daymenion/blob/3a8017a8c080d8096ba923f14b86f6469c72cb24/dino.gif)
 
 
 <!--
