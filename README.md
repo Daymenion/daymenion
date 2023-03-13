@@ -20,9 +20,6 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
 
-<!--
-[![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=daymenion)](https://github.com/daymenion/github-readme-stats)
 
@@ -36,9 +33,9 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 
-<--
+
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
--->
+
 
 
 
