@@ -18,12 +18,15 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daymenion&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Daymenion/Daymenion/)
 
 
 [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=daymenion)](https://github.com/daymenion/github-readme-stats)
 
-<img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> <img src="https://streak-stats.demolab.com/?user=Daymenion&theme=buefy-dark" width="400" />
+<img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daymenion&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
@@ -47,7 +50,7 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 
-![github contribution grid snake animation](https://github.com/Daymenion/daymenion/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/f6ecc43eb11ca8e85c9b377f11ef3112eec910b5/github-contribution-grid-snake.svg)
 
 
 
