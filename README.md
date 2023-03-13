@@ -13,45 +13,26 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 * 🖥️  See my portfolio at [My Website (will be active soon)](http://daymenion.com)
 * ✉️  You can contact me at [Email](mailto:mehmet.k_unlu@hotmail.com)
-* 🚀  I'm currently working on [My Game (will be active soon)](http://blabla)
-* 🧠  I'm learning Advanced Machine Learning, Game Development, Advanced Data Science, Blockchain Development
-* 🤝  I'm open to collaborating on ML
-* 👯 Always open to collaborations on Machine Learning Interdisciplinary research topics. 
-* 🔭 I'm learning EVERYTHING about this universe.
+* 🧠 🔭 I'm learning EVERYTHING about this universe and ML.
+* 👯 🤝 Always open to collaborations on Machine Learning Interdisciplinary research topics. 
 
 
 
-<!--
-![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daymenion&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Daymenion/Daymenion/)
 
 <!--
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&column=7&theme=gruvbox&no-frame=true&title=Stars,Commit,Followers,PullRequest,Issues"/>
-</a>
+[![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Daymenion&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
-<!-- <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8">
-</div> -->
+<img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> <img src="https://streak-stats.demolab.com/?user=Daymenion&theme=buefy-dark" width="400" />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
-
-<!--
-[![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
-<img src="https://github-readme-stats-eurus-holmes.vercel.app/api?username=Eurus-Holmes&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> <img src="https://streak-stats.demolab.com/?user=Eurus-Holmes&theme=buefy-dark" width="400" />
-
-<!-- [![Feiyang's github stats](https://github-readme-stats-eurus-holmes.vercel.app/api?username=Eurus-Holmes&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eurus-Holmes&theme=buefy-dark)](https://git.io/streak-stats) -->
+<!-- [![Feiyang's github stats](https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daymenion&theme=buefy-dark)](https://git.io/streak-stats) -->
 
 
 <div align=center>
-  <img src="https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/codersrank.png" width="500"/>
+  <img src="https://github.com/Daymenion/Daymenion/blob/master/codersrank.png" width="500"/>
 </div>
 
 
@@ -60,7 +41,7 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurus-Holmes&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
 
 
@@ -68,12 +49,12 @@ I am an ambitious, determined and entrepreneurial Software Engineer with +2 year
 
 <p align="center"> 
   Visitors (From 08/06/2020):<br>
-  <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
+  <img src="https://profile-counter.glitch.me/Daymenion/count.svg" />
 </p>
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Daymenion/Daymenion/output/github-contribution-grid-snake.svg)
 
 
 
