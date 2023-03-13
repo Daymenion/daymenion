@@ -1,39 +1,19 @@
 ### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Mehmet+UNLU+;You+Are+Welcome+!)](https://al-swaiti.github.io)
-
 ![image](https://github.com/Daymenion/daymenion/blob/3a8017a8c080d8096ba923f14b86f6469c72cb24/dino.gif)
 
 
-My name is Mehmet Ünlü
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+I'm+Mehmet+Ünlü+;Software+Engineer+On+Machine+Learning+;You+Are+Welcome+👋)](https://daymenion.github.io)
+
 ============================
 
-Jr. Machine Learning Enginer and Data Scientist
------------------------------------------------
-
 I am an ambitious, determined and entrepreneurial Software Engineer with +2 years of experience, focused on Machine Learning (Artificial Intelligence Technologies). I am interested in game development (unreal engine) as a hobby.
+-----------------------------------------------
 
 * 🖥️  See my portfolio at [My Website (will be active soon)](http://daymenion.com)
 * ✉️  You can contact me at [Email](mailto:mehmet.k_unlu@hotmail.com)
 * 🧠 🔭 I'm learning EVERYTHING about this universe and ML.
 * 👯 🤝 Always open to collaborations on Machine Learning Interdisciplinary research topics. 
 
-
-
-<img src="https://github-readme-stats-Daymenion.vercel.app/api?username=Daymenion&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
@@ -69,6 +49,19 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daymenion&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=gotham"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daymenion&langs_count=8&layout=compact&line_height=21&hide_border=true&theme=gotham"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
+</div>
 
 <a href="http://www.github.com/daymenion"><img src="https://github-readme-stats.vercel.app/api?username=daymenion&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daymenion's GitHub stats" /></a>
 
