@@ -24,10 +24,8 @@
   <a href="https://www.youtube.com/c/Daymenion?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCqqZkHcU1YWwW6u241kjBvQ?color=f75c7e&logo=youtube&logoColor=f75c7e&style=for-the-badge"/></a>
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Daymenion?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Daymenion?tab=followers">
+  <a href="https://github.com/Daymenion">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Daymenion?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Daymenion/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 -----------------------------------------------
