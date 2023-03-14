@@ -43,7 +43,8 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 
 <p align="left"> <a href="https://discord.com/users/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19105910/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+
+
 
 <b>My GitHub Stats</b>s
 
@@ -59,9 +60,9 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 </details>
 </div>
 
-<a href="http://www.github.com/daymenion"><img src="https://github-readme-stats.vercel.app/api?username=daymenion&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daymenion's GitHub stats" /></a>
+<a href="http://www.github.com/daymenion"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daymenion&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daymenion's GitHub stats" /></a>
 
-<a href="http://www.github.com/daymenion"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daymenion&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/daymenion"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daymenion&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 ![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/f6ecc43eb11ca8e85c9b377f11ef3112eec910b5/github-contribution-grid-snake-dark.svg)
