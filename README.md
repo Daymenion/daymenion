@@ -51,8 +51,7 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daymenion&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=gotham"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daymenion&langs_count=8&layout=compact&line_height=21&hide_border=true&theme=gotham"/></a></td>
+      <td><a href="#--------"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daymenion&langs_count=8&layout=compact&line_height=21&hide_border=true&theme=gotham"/></a></td>
     </tr>
   </table>
 </div>
