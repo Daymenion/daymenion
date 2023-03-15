@@ -130,7 +130,7 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 <a href="http://www.github.com/daymenion"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daymenion&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/f6ecc43eb11ca8e85c9b377f11ef3112eec910b5/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center"> 
   Visitors (From 13/03/2023):<br>
