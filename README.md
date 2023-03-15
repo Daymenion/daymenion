@@ -67,15 +67,19 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 
 <p align="left"> <a href="https://discord.com/users/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19105910/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=ysCnUxtMDQM"><img src="https://ytcards.demolab.com/?id=ysCnUxtMDQM&title=Bilgisayar+Bilimlerine+Giri%C5%9F+%28CS50%29+LAB+1+-+C%27nin+ve++Visual+Studio+Code%27un+Kurulumu&lang=en&timestamp=1659186025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1806" alt="Bilgisayar Bilimlerine Giriş (CS50) LAB 1 - C'nin ve  Visual Studio Code'un Kurulumu" title="Bilgisayar Bilimlerine Giriş (CS50) LAB 1 - C'nin ve  Visual Studio Code'un Kurulumu"></a>
-<a href="https://www.youtube.com/watch?v=MGS6pirsRYI"><img src="https://ytcards.demolab.com/?id=MGS6pirsRYI&title=Bilgisayar+Bilimlerine+Giri%C5%9F+%28CS50%29+DERS+1+-+Programlamaya+Giri%C5%9F+C&lang=en&timestamp=1657965612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=6757" alt="Bilgisayar Bilimlerine Giriş (CS50) DERS 1 - Programlamaya Giriş C" title="Bilgisayar Bilimlerine Giriş (CS50) DERS 1 - Programlamaya Giriş C"></a>
-<a href="https://www.youtube.com/watch?v=FUuevAJDV5M"><img src="https://ytcards.demolab.com/?id=FUuevAJDV5M&title=Bilgisayar+Bilimlerine+Giri%C5%9F+%28CS50%29+DERS+0+-+Bilgisayarlar+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1r%3F&lang=en&timestamp=1655658247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2457" alt="Bilgisayar Bilimlerine Giriş (CS50) DERS 0 - Bilgisayarlar Nasıl Çalışır?" title="Bilgisayar Bilimlerine Giriş (CS50) DERS 0 - Bilgisayarlar Nasıl Çalışır?"></a>
-<a href="https://www.youtube.com/watch?v=34s8tnd9uqA"><img src="https://ytcards.demolab.com/?id=34s8tnd9uqA&title=SIFIRDAN+%C4%B0LER%C4%B0+SEV%C4%B0YEYE+YAZILIM+GEL%C4%B0%C5%9ET%C4%B0R%C4%B0C%C4%B0+VE+YAPAY+ZEKA+KURSU+-+%C4%B0NTRO&lang=en&timestamp=1655657568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=361" alt="SIFIRDAN İLERİ SEVİYEYE YAZILIM GELİŞTİRİCİ VE YAPAY ZEKA KURSU - İNTRO" title="SIFIRDAN İLERİ SEVİYEYE YAZILIM GELİŞTİRİCİ VE YAPAY ZEKA KURSU - İNTRO"></a>
-<a href="https://www.youtube.com/watch?v=ySEDKXXE1BA"><img src="https://ytcards.demolab.com/?id=ySEDKXXE1BA&title=Muhabbet%2C+Felsefe%2C+Soru+%26+Cevap&lang=en&timestamp=1645399580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=8476" alt="Muhabbet, Felsefe, Soru & Cevap" title="Muhabbet, Felsefe, Soru & Cevap"></a>
-<a href="https://www.youtube.com/watch?v=Ti624P11Dwk"><img src="https://ytcards.demolab.com/?id=Ti624P11Dwk&title=MP+-+ZAMAN+MEFHUMU%2C+SAH%C4%B0P+OLDU%C4%9EUMUZ+YEGANE+%C5%9EEY+NED%C4%B0R%3F&lang=en&timestamp=1637683213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=643" alt="MP - ZAMAN MEFHUMU, SAHİP OLDUĞUMUZ YEGANE ŞEY NEDİR?" title="MP - ZAMAN MEFHUMU, SAHİP OLDUĞUMUZ YEGANE ŞEY NEDİR?"></a>
-<!-- END YOUTUBE-CARDS -->
+<details open> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  
+ <!-- prettier-ignore-start -->
+  <!-- BEGIN YOUTUBE-CARDS -->
 
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+
+<a href="https://www.youtube.com/c/Daymenion?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  
+
+</details>
 
 <b>My GitHub Stats</b>s
 
