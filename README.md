@@ -111,23 +111,40 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
 
 </details>
 
-<b>My GitHub Stats</b>s
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-<!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daymenion&langs_count=8&layout=compact&line_height=21&hide_border=true&theme=gotham"/></a></td>
-    </tr>
-  </table>
-</div>
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Daymenion's streak" src="https://streak-stats.demolab.com/?user=Daymenion&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daymenion's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Daymenion&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daymenion's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Daymenion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Daymenion's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Daymenion&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 </details>
-</div>
-
-<a href="http://www.github.com/daymenion"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daymenion&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daymenion's GitHub stats" /></a>
-
-<a href="http://www.github.com/daymenion"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daymenion&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 ![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/output/github-contribution-grid-snake-dark.svg)
@@ -136,6 +153,7 @@ src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-
   Visitors (From 13/03/2023):<br>
   <img src="https://profile-counter.glitch.me/Daymenion/count.svg" />
 </p>
+
 
 ### Support Me
 
