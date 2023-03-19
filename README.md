@@ -8,12 +8,16 @@
 <p align="center">
   <a href="https://www.youtube.com/c/Daymenion"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/daymenion/"><img width="32px" alt="Linkedln" title="linkedln" src="https://static.wixstatic.com/media/a6592d_5335fccbaa7e454781377ba07c9a24dc~mv2.png/v1/fill/w_512,h_512,al_c/a6592d_5335fccbaa7e454781377ba07c9a24dc~mv2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287
   <a href="https://twitter.com/Daymenion"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/XZjnjZHJCB" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/XZjnjZHJCB" alt="Discord" title="My Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/daymenion"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://www.instagram.com/daymenion"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287
   <a href="https://cdn.7tv.app/emote/611069ac5b4815cda893e066/4x.webp"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
