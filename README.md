@@ -54,19 +54,6 @@
   <a href="https://github.com/Daymenion?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/Daymenion/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
 ### Skills
 
 <p align="left">
