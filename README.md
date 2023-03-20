@@ -41,15 +41,11 @@
 * ❤️ Please follow on Github
 
 
-
-<a href="https://www.github.com/daymenion" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/daymenion?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/daymenion" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/daymenion?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     
