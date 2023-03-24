@@ -177,8 +177,6 @@
       <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
       <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
@@ -195,7 +193,6 @@
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
