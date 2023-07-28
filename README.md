@@ -126,16 +126,12 @@
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-
 1. 🎉 Merged PR [#7](https://github.com/Daymenion/Cross-Modal-Aligned-Representations/pull/7) in [Daymenion/Cross-Modal-Aligned-Representations](https://github.com/Daymenion/Cross-Modal-Aligned-Representations)
 2. 💪 Opened PR [#7](https://github.com/Daymenion/Cross-Modal-Aligned-Representations/pull/7) in [Daymenion/Cross-Modal-Aligned-Representations](https://github.com/Daymenion/Cross-Modal-Aligned-Representations)
 3. 🎉 Merged PR [#6](https://github.com/Daymenion/Cross-Modal-Aligned-Representations/pull/6) in [Daymenion/Cross-Modal-Aligned-Representations](https://github.com/Daymenion/Cross-Modal-Aligned-Representations)
 4. 💪 Opened PR [#6](https://github.com/Daymenion/Cross-Modal-Aligned-Representations/pull/6) in [Daymenion/Cross-Modal-Aligned-Representations](https://github.com/Daymenion/Cross-Modal-Aligned-Representations)
 5. 🎉 Merged PR [#5](https://github.com/Daymenion/Cross-Modal-Aligned-Representations/pull/5) in [Daymenion/Cross-Modal-Aligned-Representations](https://github.com/Daymenion/Cross-Modal-Aligned-Representations)
-<!--END_SECTION:activity-->
+
 
 </details>
 
