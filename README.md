@@ -219,7 +219,7 @@
   </p>
 </details>
 
-![github contribution grid snake animation](https://github.com/Daymenion/daymenion/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Daymenion/daymenion/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"> 
   Visitors (From 13/03/2023):<br>
