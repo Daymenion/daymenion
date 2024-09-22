@@ -229,8 +229,3 @@
   Visitors (From 13/03/2023):<br>
   <img src="https://profile-counter.glitch.me/Daymenion/count.svg" />
 </p>
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/daymenion"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
